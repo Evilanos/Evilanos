@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Juan Fredo Alexius Sihotang 👋
 
-<!--
-**Evilanos/Evilanos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Aspiring Back-End Developer** passionate about building scalable and secure web applications.  
+Currently studying **Computer Science** at Universitas Negeri Jakarta (GPA: 3.55/4.0).  
+I enjoy solving problems, designing APIs, and optimizing databases to deliver reliable backend solutions.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+- **Languages**: Python, Go (Golang), SQL  
+- **Frameworks**: Flask, Flask Blueprint  
+- **Databases**: MongoDB, MySQL/SQL  
+- **Tools**: Git, Linux, Google Workspace, Microsoft Office  
+
+---
+
+## 🏆 Achievements
+- **Top 50 Teams PMW UNJ 2024** – Innovative fish farming business system.  
+
+---
+
+## 📫 Let's Connect
+- 📧 Email: [juan.fredoalexius123@gmail.com](mailto:juan.fredoalexius123@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/juanfredo](http://www.linkedin.com/in/juanfredo/)  
+- 🌐 GitHub: [github.com/Evilanos](https://github.com/Evilanos)  
+
+---
+⭐️ From [Evilanos](https://github.com/Evilanos)
