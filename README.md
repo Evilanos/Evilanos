@@ -6,7 +6,7 @@ I enjoy solving problems, designing APIs, and optimizing databases to deliver re
 ---
 
 ## Tech Stack
-- **Languages**: Python,JS, C#, SQL  
+- **Languages**: Python,JS, C#
 - **Frameworks**: Flask, Flask Blueprint  
 - **Databases**: MongoDB, MySQL/SQL  
 - **Tools**: Git, Linux, Google Workspace, Microsoft Office  
