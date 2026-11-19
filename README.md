@@ -1,6 +1,6 @@
 # Hi, I'm Juan Fredo Alexius Sihotang
 
-**Junior AI Engineer & Software Developer** @ **Tower Bersama Group (TBIG)**  
+**Junior AI Engineer & Software Developer** @ **Tower Bersama Infrastructure Group (TBIG)**  
 Computer Science graduate of **Universitas Negeri Jakarta** (GPA 3.54/4.00). I build agentic AI workflows, Model Context Protocol (MCP) integrations, Retrieval-Augmented Generation (RAG) systems, developing enterprise web applications, and backend services.
 
 ---
