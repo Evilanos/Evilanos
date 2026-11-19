@@ -1,26 +1,25 @@
 # Hi, I'm Juan Fredo Alexius Sihotang
 
-**Aspiring Back-End Developer** passionate about building scalable and secure web applications.  
-I enjoy solving problems, designing APIs, and optimizing databases to deliver reliable backend solutions.  
+**Junior AI Engineer & Software Developer** @ **Tower Bersama Group (TBIG)**  
+Computer Science graduate of **Universitas Negeri Jakarta** (GPA 3.54/4.00). I build agentic AI workflows, Model Context Protocol (MCP) integrations, Retrieval-Augmented Generation (RAG) systems, developing enterprise web applications, and backend services.
 
 ---
 
 ## Tech Stack
-- **Languages**: Python,JS, C#
-- **Frameworks**: Flask, Flask Blueprint  
-- **Databases**: MongoDB, MySQL/SQL  
-- **Tools**: Git, Linux, Google Workspace, Microsoft Office  
+- **AI:** Agentic workflows, Model Context Protocol (MCP), RAG, LLM integration
+- **Languages:** Python, JavaScript (Node.js), C#, Dart, SQL, C++
+- **Backend:** Flask, .NET Core, REST APIs
+- **Databases:** PostgreSQL, MySQL, MongoDB, SQLite
+- **Tools:** Docker, Git, GitHub/GitLab CI/CD, Linux
 
 ---
 
-## Achievements
-- **Top 50 Teams PMW UNJ 2024** – Innovative fish farming business system.  
+## Certifications & Achievements
+- **Associate Data Analyst (Data Management System)**, BNSP *(valid 2025 – 2028)*
+- **Top 50 Teams, PMW UNJ 2024**: led the *Perkembangan Budidaya Ikan Air Tawar* data management system initiative
 
 ---
 
 ## Let's Connect
-- Email: [juan.fredoalexius123@gmail.com](mailto:juan.fredoalexius123@gmail.com)  
-- LinkedIn: [linkedin.com/in/juanfredo](http://www.linkedin.com/in/juanfredo/)  
-
----
-From [Evilanos](https://github.com/Evilanos)
+- **Email:** [juan.fredoalexius123@gmail.com](mailto:juan.fredoalexius123@gmail.com)
+- **LinkedIn:** [linkedin.com/in/juanfredo](https://www.linkedin.com/in/juanfredo/)
