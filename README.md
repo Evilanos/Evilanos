@@ -7,7 +7,7 @@ Computer Science graduate of **Universitas Negeri Jakarta** (GPA 3.54/4.00). I b
 
 ## Tech Stack
 - **AI:** Agentic workflows, Model Context Protocol (MCP), RAG, LLM integration
-- **Languages:** Python, JavaScript (Node.js), C#, Dart, SQL, C++
+- **Languages:** Python, JavaScript (Node.js), C#, Dart, SQL, C#
 - **Backend:** Flask, .NET Core, REST APIs
 - **Databases:** PostgreSQL, MySQL, MongoDB, SQLite
 - **Tools:** Docker, Git, GitHub/GitLab CI/CD, Linux
